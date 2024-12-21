@@ -1,0 +1,14 @@
+.popupImg {
+  height: 600px;
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
+.close {
+  margin-left: auto;
+  padding: 20px;
+}

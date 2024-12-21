@@ -1,0 +1,28 @@
+.score-container {
+  background-color: white;
+  color: #223a5f;
+  padding: 5px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px;
+  text-align: center;
+}
+.header-container {
+  border-radius: 5px;
+  border: 1px solid white;
+  padding: 10px;
+  margin: 10px;
+  width: 600px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+h2 {
+  font-size: 18px;
+  margin-bottom: 0;
+}
+val {
+  font-family: 'Roboto';
+}
